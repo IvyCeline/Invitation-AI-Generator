@@ -281,7 +281,7 @@ export default function GuestManager() {
           </h1>
           <p className="text-slate-400">管理客户名单，批量发送个性化邀请函</p>
           <div className="flex gap-4 justify-center mt-4">
-            <a href="/generator" className="text-gold-500 text-sm hover:underline">
+            <a href="/" className="text-gold-500 text-sm hover:underline">
               ← 返回生成器
             </a>
           </div>
